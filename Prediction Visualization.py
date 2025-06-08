@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
 
 
 import pandas as pd
@@ -102,7 +101,6 @@ plt.tight_layout()
 plt.show()
 
 
-# In[ ]:
 
 
 
